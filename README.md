@@ -1,6 +1,6 @@
-Hi 
-I am jawad taki aldeen
-I am Full Stack Developer with 2+ years of experience in designing, developing, and deploying web
+- Hi 
+- I am jawad taki aldeen
+- I am Full Stack Developer with 2+ years of experience in designing, developing, and deploying web
 applications using Next.js, React.js, Laravel, and MySQL. Adept at building scalable and user-
 centric solutions with a focus on efficiency and innovation.
 
